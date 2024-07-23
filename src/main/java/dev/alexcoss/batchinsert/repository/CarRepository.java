@@ -1,6 +1,6 @@
-package dev.alexcoss.bathupdate.repository;
+package dev.alexcoss.batchinsert.repository;
 
-import dev.alexcoss.bathupdate.model.Car;
+import dev.alexcoss.batchinsert.model.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package dev.alexcoss.bathupdate.model;
+package dev.alexcoss.batchinsert.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -12,7 +12,7 @@ import org.hibernate.annotations.DynamicUpdate;
 @AllArgsConstructor
 @Entity
 @DynamicUpdate
-@Table(schema = "car", name = "car")
+@Table(name = "car")
 @Builder
 public class Car {
 

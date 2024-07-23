@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.alexcoss</groupId>
-    <artifactId>BathUpdate</artifactId>
+    <artifactId>BatchInsert</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BathUpdate</name>
-    <description>BathUpdate</description>
+    <name>BatchInsert</name>
+    <description>BatchInsert</description>
     <url/>
     <licenses>
         <license/>

@@ -1,4 +1,4 @@
-package dev.alexcoss.bathupdate.model;
+package dev.alexcoss.batchinsert.model;
 
 import com.opencsv.bean.CsvBindByName;
 import lombok.AllArgsConstructor;
